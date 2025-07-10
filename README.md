@@ -1,4 +1,4 @@
-# 🚀 Optimized Neovim Configuration for MERN Stack Development
+# Optimized Neovim Configuration 
 
 A blazing fast, memory-efficient, and feature-rich Neovim setup designed specifically for devs who wants speed and efficiency over animations.
 
